@@ -36,6 +36,7 @@
 - [:rabbit2:신은지](https://github.com/eunjishinrabbit)
 - [:dolphin:이희주](https://github.com/brownsally2)
 - [:hatched_chick:이한솔](https://github.com/solsol529)
+- [:dog:임미림](https://github.com/Brownpoodle)
 
 ### :cherries: 개발 기간
 - 기획 및 개발 : 2022.10.19 - 2022.11.10
